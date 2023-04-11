@@ -27,9 +27,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=morozooff&theme=github)
 
-<h3> Language stats </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morozooff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
