@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3> About </h1>
-<div>📚 Computer science 4th year student from MIET, Zelenograd, Russia </div>
+<div>📚 Computer science bachelor from MIET, Zelenograd, Russia </div>
 
 <div>🦖 Python backend jun dev </div>
 
