@@ -5,7 +5,7 @@
 <h3> About </h1>
 <div>📚 Computer science bachelor from MIET, Zelenograd, Russia </div>
 
-<div>🦖 Python backend jun dev </div>
+<div>🦖 Python backend dev </div>
 
 
 <h3> Techologies </h3>
